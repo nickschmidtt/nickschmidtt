@@ -2,7 +2,7 @@
   
 - I love math, puzzles and strategy games and am super interested in learning more about quant fields in finance
   
-- I know Python and R, and I will learn Java and C++ over the next year.
+- I know Python and R, and I will learn Java, C++, and React.js over the next year.
   
 - Feel free to reach out, my email is nschmidtski19@gmail.com.
 
