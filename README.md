@@ -1,4 +1,4 @@
-- Hi, I am Nick Schmidt and I am a 2/4 quantitative finance student at Stevens Institue of Technology.
+- Hi, I am Nick Schmidt and I am a 2/4 quantitative finance student-athelet at Stevens Institue of Technology.
   
 - I love math, puzzles and strategy games and am super interested in learning more about quant fields in finance
   
